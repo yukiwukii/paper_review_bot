@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+*.db
+venv/
+.venv/
+*.log
+.mypy_cache
+CHANGES.md
+SETUP_GUIDE.md
